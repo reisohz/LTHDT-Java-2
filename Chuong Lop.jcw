@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Chuong Lop</label>
+	</settings>
+	<users>
+		<user>
+			<path>Chuong Lop.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Circle\Circle.jcp</path>
+		</project>
+		<project>
+			<path>Employee\Employee.jcp</path>
+		</project>
+		<project>
+			<path>Employee2\Employee2.jcp</path>
+		</project>
+		<project>
+			<path>PhuongTrinhBac2\PhuongTrinhBac2.jcp</path>
+		</project>
+		<project>
+			<path>Rectangle.jcp</path>
+		</project>
+	</projects>
+</workspace>
